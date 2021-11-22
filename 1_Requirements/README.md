@@ -33,7 +33,7 @@ The main objective of thee project is used to book a train ticket which is user 
 ## How:
 1. It will be helpful in booking tickets,Chart,Cancelation detail.
 
-##SWOT Analysis
+# SWOT Analysis
 
 ## Strengths
 1. Performing train ticket reservation easy.
