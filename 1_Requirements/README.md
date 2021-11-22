@@ -34,4 +34,17 @@ The main objective of thee project is used to book a train ticket which is user 
 1.It will be helpful in booking tickets,Chart,Cancelation detail.
 
 ##SWOT Analysis
-1.
+
+## Strengths
+1.Performing train ticket reservation easy.
+2.It can also used to view the chart.
+
+## Weakness
+1.It can't perform coach no.
+
+## Opportunities
+1. Many process can be implemented to make it better.
+
+## Threats
+1.Advanced Featured booking are already in the market.
+
