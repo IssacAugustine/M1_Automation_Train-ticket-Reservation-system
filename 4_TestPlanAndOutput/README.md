@@ -1,18 +1,12 @@
-# High Level Requirements
-| ID   |      Description     |  Status |
-|----------|:-------------:|------:|
-| HLR_1 |  The user can create a new data | Implemented  |
-| HLR_2 |    The user can modify the data| Implemented  |
-| HLR_3 |    The user can delete the data | Implemented  |
-| HLR_4 |    The user can view the data | Implemented  |
+# Test Plan:
+## Table no: High level test plan
+|Test ID | Test Scenario	               |Type Of Test                                         |                                   
+|:---:   | :----------------------------:|:-----------:                                        |
+|H_01	   |Book Ticket                    |fill the details in the asked form to book the train |
+|H_02	   |View available tickets         |view all the available tickets to book the ticket    |
+|H_03	   |Cancel Ticket                  |If the journey is cancelled, cancel the ticket       |
+|H_04    |View Chart                     |It will show the no of pepole who booked the ticket  |
 
-
-# Low Level Requirements
-| ID   |      Description     |  Status |
-|----------|:-------------:|------:|
-| LLR_1 |  List of operations displayed | Implemented  |
-| LLR_2 |  Input from the user  | Implemented  |
-| LLR_3 |  Exit the program  | Implemented  |
 
 
 
