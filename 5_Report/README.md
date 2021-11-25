@@ -64,3 +64,12 @@ The main objective of thee project is used to book a train ticket which is user 
 | LLR_2 |  Input from the user  | Implemented  |
 | LLR_3 |  Exit the program  | Implemented  |
 
+
+
+# Behavior Diagrams
+![Behavior_Diagram](https://user-images.githubusercontent.com/94215887/143390715-971a88e8-01ae-4c27-9c83-1661952dde8d.png)
+
+# Structure Diagram
+![Structure Diagram](https://user-images.githubusercontent.com/94215887/143390800-69087977-d1b6-473f-abb1-fa306840d5ac.png)
+
+
