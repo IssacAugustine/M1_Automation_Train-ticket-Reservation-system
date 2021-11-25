@@ -16,37 +16,37 @@ The main objective of thee project is used to book a train ticket which is user 
 
 # 4W's and 1 H's
 ## Why:
-1. I'm making it for booking train ticket in any place.
-2. It also have a extra features of checking sear availability.
+* I'm making it for booking train ticket in any place.
+* It also have a extra features of checking sear availability.
 
 ## Where:
-1. It can also be done in the online platform for easy booking.
+* It can also be done in the online platform for easy booking.
 
 ## Who:
-1. It can be used by public.
-2. Can be used as a refernce for higher official in railway department.
+* It can be used by public.
+* Can be used as a refernce for higher official in railway department.
 
 ## When:
-1. Any can book the ticket anywhere.
-2. We can also check the chart (i.e) seat no.
+* Any can book the ticket anywhere.
+* We can also check the chart (i.e) seat no.
 
 ## How:
-1. It will be helpful in booking tickets,Chart,Cancelation detail.
+* It will be helpful in booking tickets,Chart,Cancelation detail.
 
 # SWOT Analysis
 
 ## Strengths
-1. Performing train ticket reservation easy.
-2. It can also used to view the chart.
+* Performing train ticket reservation easy.
+* It can also used to view the chart.
 
 ## Weakness
-1. It can't perform coach no.
+* It can't perform coach no.
 
 ## Opportunities
-1. Many process can be implemented to make it better.
+* Many process can be implemented to make it better.
 
 ## Threats
-1. Advanced Featured booking are already in the market.
+* Advanced Featured booking are already in the market.
 
 # High Level Requirements
 | ID   |      Description     |  Status |
