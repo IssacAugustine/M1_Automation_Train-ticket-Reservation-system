@@ -20,3 +20,13 @@ CODE GRADE:
 [![Code Quality - Static Code - Cppchec](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/c-cpp.yml)   |[![Valgrind](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/valgrind.yml/badge.svg)](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/valgrind.yml)    |[![Unit Testing - Unity](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/unity.yml/badge.svg)](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/unity.yml)    |[![Contribution Check - Git Inspector](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/gitinspector.yml)   |[![C/C++ CI - Build Status](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/linux.yml/badge.svg)](https://github.com/IssacAugustine/M1_Automation_Train-ticket-Reservation-system/actions/workflows/linux.yml)
 
 
+ FOLDER STRUCTURE:
+  
+  | FOLDER           	| DESCRIPTION                                   	|
+|------------------	|-----------------------------------------------	|
+| 1_Requirements   	| Documents detailing requirements and research 	|
+| 2_Design         	| Documents specifying design details           	|
+| 3_Implementation 	| All code and documentation                    	|
+| 4_Test_plan      	| Documents with test plans and procedures      	|
+| 5_Report         	| Documentation of whole project                	|
+| 6_Images         	| All the output images of this projec          	|
