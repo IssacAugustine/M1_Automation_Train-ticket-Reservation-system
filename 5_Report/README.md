@@ -72,4 +72,14 @@ The main objective of thee project is used to book a train ticket which is user 
 # Structure Diagram
 ![Structure Diagram](https://user-images.githubusercontent.com/94215887/143390800-69087977-d1b6-473f-abb1-fa306840d5ac.png)
 
+# Output Images
+
+## Booking
+![Booking](https://user-images.githubusercontent.com/94215887/143394839-5a66b660-3f42-4071-8948-a3bd06e68a5e.png)
+
+## Availability Check
+![Availability Check](https://user-images.githubusercontent.com/94215887/143394894-049da977-0229-4edc-9e6e-e6d55f243f41.png)
+
+## Chart
+![Chart](https://user-images.githubusercontent.com/94215887/143394928-196bd253-957e-43fa-97bd-849f34cbb85e.png)
 
