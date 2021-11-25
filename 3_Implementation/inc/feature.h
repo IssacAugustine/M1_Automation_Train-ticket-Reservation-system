@@ -4,13 +4,13 @@
 #include<conio.h>
 
 
-char name[200];
-int age[200];
-int seatno[200];
-int seat[200];
-void booking(struct reserve a[200]);
-void cancellation(struct reserve a[200]); 
-void chart(struct reserve a[200]);
+char name[];
+int age[];
+int seatno[];
+int seat[];
+void booking(struct reserve a[]);
+void cancellation(struct reserve a[]); 
+void chart(struct reserve a[]);
 
 
 
