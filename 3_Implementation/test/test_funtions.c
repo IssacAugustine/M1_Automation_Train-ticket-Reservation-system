@@ -3,10 +3,12 @@
 
 #define PROJECT_NAME  "TRAIN_TICKET_RESERVATION_SYSTEM"
 
-void test_booking(void){
+void test_booking(void)
+{
 TEST_ASSERT_EQUAL(pass,booking(1));
 }
-void test_cancellation(void){
+void test_cancellation(void)
+{
 TEST_ASSERT_EQUAL(pass,cancellation(1));
 }
 void test_chart(void){
