@@ -1,5 +1,5 @@
-#ifndef __FUNCTION_H__
-#define __FUNCTION_H__
+#ifndef __FEATURE_H__
+#define __FEATURE_H__
 #include<stdio.h>
 #include<conio.h>
 
